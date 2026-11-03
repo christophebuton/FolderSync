@@ -2,8 +2,8 @@
 Permet de synchroniser un dossier source vers un dossier destination
 
 Sous Debian, les 3 paquets suivants doivent être présents :  
-python3-tk   
-rsync
+python3-tk  
+rsync  
 coreutils
 
 ## 🤖 Crédits et Remerciements
